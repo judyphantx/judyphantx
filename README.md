@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me : judythiphan@gmail.com
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I traveled to 32/50 states! 
+- ⚡ Fun fact: I traveled to 34/50 states! 
 
 <!---
 jphan55/jphan55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
