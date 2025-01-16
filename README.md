@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me : judythiphan@gmail.com
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I love photography and building my portfolio website https://www.judyphan.com/
+- ⚡ Fun fact: I have been to 34/50 states and still counting!
 
 <!---
 jphan55/jphan55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
