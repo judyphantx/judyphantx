@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jphan55
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently studying Computer Science at Austin Community College 
+- 🌱 I’m currently pursuing my MS in Computer Science at The University of Texas at Dallas
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me : judythiphan@gmail.com
 - 😄 Pronouns: she/her/hers
